@@ -19,3 +19,7 @@ samples, guidance on mobile development, and a full API reference.
 
 https://drive.google.com/file/d/1AozdU9X3aYhpOYeQLAvkyaHsE40L0CTp/view?usp=sharing  
 NOTE: this video does not contain splash screen and onboarding screen but the app does contain them
+
+## APK Link
+
+https://drive.google.com/file/d/1rfMmf6oZrGfoK5eMtnKpLF1Q6ujcvETm/view?usp=sharing
